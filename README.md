@@ -1,4 +1,5 @@
-## Hi there 👋
+## Gabriele Hayden
+As Head of Data Services at the University of Oregon Libraries I lead a team that helps students and faculty find, manage, analyze and share research data. Sometimes I get to teach tools like R, Python, Excel, and Power BI.
 
 <!--
 **gabrielesh/gabrielesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
